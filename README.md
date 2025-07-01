@@ -36,7 +36,7 @@ Experienced Digital Solutions Architect and Full-Stack Developer with a strong b
 
 ### eCommerce & CMS
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=Shopify&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-EE6723?style=flat-square&logo=Magento&logoColor=white)
+![osCommerce](https://img.shields.io/badge/osCommerce-5E5E5E?style=flat-square&logo=oscommerce&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ### DevOps & Tools
@@ -57,15 +57,21 @@ Experienced Digital Solutions Architect and Full-Stack Developer with a strong b
 ### Full-Stack Developer
 **Team23 GmbH**  
 *04/2019 - 12/2020*  
-- Developed Magento 2 eCommerce solutions with custom plugins and themes
+- Developed osCommerce eCommerce solutions with custom plugins and themes
 - Implemented CI/CD pipelines and automated testing
-- Worked with PHP, JavaScript, Sass, and modern development tools
+- Worked with PHP, JavaScript, and modern development tools
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=operator888&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=operator888&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=operator888&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operator888&layout=compact&langs_count=10&theme=dark" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=operator888&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=operator888&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
 ## 🚀 Personal Projects
 
@@ -97,8 +103,8 @@ WordPress Multisite platform for rapid eShop development with integrated payment
 
 ## 📫 How to reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/theodoros-dimitriou/)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/theodordimitriu/)
+- 📧 Email: theodoros.dimitriou.dev@gmail.com
 - 🌐 [Personal Website & Blog](https://theodorosdimitriou.com)
 
 ---

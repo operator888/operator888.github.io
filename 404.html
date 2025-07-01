@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    // Single Page Apps for GitHub Pages
+    // MIT License
+    // https://github.com/rafgraph/spa-github-pages
+    // This script checks the current location and redirects to the index.html with the correct hash
+    (function() {
+      var redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      if (redirect && redirect !== location.href) {
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
+</head>
+<body>
+  <script>
+    // Redirect to index.html with the current path and search
+    const path = window.location.pathname;
+    const search = window.location.search;
+    const hash = window.location.hash;
+    const redirectUrl = `${window.location.origin}/#${path}${search}${hash}`;
+    
+    // Store the full URL in sessionStorage to handle the redirect after the page loads
+    sessionStorage.redirect = redirectUrl;
+    
+    // Redirect to the index.html with the correct hash
+    window.location.href = redirectUrl;
+  </script>
+  <noscript>
+    <p>Please enable JavaScript to use this application.</p>
+  </noscript>
+</body>
+</html>

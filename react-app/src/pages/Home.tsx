@@ -12,38 +12,50 @@ const Home = () => {
       </div>
       <div className="code-line">
         <span className="line-number">2</span>
-        <span className="comment">/// Digital Solutions Architect and Full-Stack Developer with over a decade of experience.</span>
+        <span className="comment">/// Full-Stack Developer & IT Consultant with extensive experience in web development,</span>
       </div>
       <div className="code-line">
         <span className="line-number">3</span>
-        <span className="comment">/// Specializing in eCommerce, enterprise solutions, and building scalable web applications.</span>
+        <span className="comment">/// eCommerce solutions, and technical leadership. Specializing in creating efficient,</span>
       </div>
       <div className="code-line">
         <span className="line-number">4</span>
-        <span className="comment">/// &lt;/summary&gt;</span>
+        <span className="comment">/// scalable applications with a focus on user experience and clean code.</span>
       </div>
       <div className="code-line">
         <span className="line-number">5</span>
-        <span className="keyword">public</span> <span className="class-name">class</span> <span className="identifier">Information</span> {'{'}
+        <span className="comment">/// &lt;/summary&gt;</span>
       </div>
-      <div className="code-line indent-1">
+      <div className="code-line">
         <span className="line-number">6</span>
-        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Name</span> = <span className="string">"Theodoros Dimitriou"</span>;
+        <span className="keyword">public</span> <span className="class-name">class</span> <span className="identifier">TheodorosDimitriou</span> {'{'}
       </div>
       <div className="code-line indent-1">
         <span className="line-number">7</span>
-        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Titre</span> = <span className="string">"Digital Solutions Architect"</span>;
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Name</span> = <span className="string">"Theodoros Dimitriou"</span>;
       </div>
       <div className="code-line indent-1">
         <span className="line-number">8</span>
-        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Email</span> = <span className="string">"theodimitriou@gmail.com"</span>;
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Title</span> = <span className="string">"Full-Stack Developer & IT Consultant"</span>;
       </div>
       <div className="code-line indent-1">
         <span className="line-number">9</span>
-        <span className="keyword">public</span> <span className="types">string[]</span> <span className="property">Position</span> = {'{'} <span className="string">"Athens"</span>, <span className="string">"Greece"</span> {'}'};
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Email</span> = <span className="string">"theodimitriou@gmail.com"</span>;
+      </div>
+      <div className="code-line indent-1">
+        <span className="line-number">10</span>
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Phone</span> = <span className="string">"+30 694 123 4567"</span>;
+      </div>
+      <div className="code-line indent-1">
+        <span className="line-number">11</span>
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Location</span> = <span className="string">"Athens, Greece"</span>;
+      </div>
+      <div className="code-line indent-1">
+        <span className="line-number">12</span>
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">LinkedIn</span> = <span className="string">"linkedin.com/in/theodoros-dimitriou"</span>;
       </div>
       <div className="code-line">
-        <span className="line-number">10</span>
+        <span className="line-number">13</span>
         {'}'}
       </div>
       <div className="code-line">

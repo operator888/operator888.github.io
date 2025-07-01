@@ -1,0 +1,23 @@
+/* App.css */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e2e;
+  font-family: 'Fira Code', 'Courier New', monospace;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}

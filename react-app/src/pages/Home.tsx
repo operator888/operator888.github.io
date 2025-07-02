@@ -12,15 +12,15 @@ const Home = () => {
       </div>
       <div className="code-line">
         <span className="line-number">2</span>
-        <span className="comment">/// Full-Stack Developer & IT Consultant with extensive experience in web development,</span>
+        <span className="comment">/// Full-Stack Developer & IT Consultant with expertise in web development,</span>
       </div>
       <div className="code-line">
         <span className="line-number">3</span>
-        <span className="comment">/// eCommerce solutions, and technical leadership. Specializing in creating efficient,</span>
+        <span className="comment">/// eCommerce solutions, and technical leadership. Skilled in creating efficient,</span>
       </div>
       <div className="code-line">
         <span className="line-number">4</span>
-        <span className="comment">/// scalable applications with a focus on user experience and clean code.</span>
+        <span className="comment">/// scalable applications with a strong focus on user experience and clean code.</span>
       </div>
       <div className="code-line">
         <span className="line-number">5</span>
@@ -36,7 +36,7 @@ const Home = () => {
       </div>
       <div className="code-line indent-1">
         <span className="line-number">8</span>
-        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Title</span> = <span className="string">"Full-Stack Developer & IT Consultant"</span>;
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Title</span> = <span className="string">"Full-Stack Developer"</span>;
       </div>
       <div className="code-line indent-1">
         <span className="line-number">9</span>
@@ -44,7 +44,7 @@ const Home = () => {
       </div>
       <div className="code-line indent-1">
         <span className="line-number">10</span>
-        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Phone</span> = <span className="string">"+30 694 123 4567"</span>;
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Phone</span> = <span className="string">"+30 694 123 4567 (Mobile)"</span>;
       </div>
       <div className="code-line indent-1">
         <span className="line-number">11</span>
@@ -52,6 +52,14 @@ const Home = () => {
       </div>
       <div className="code-line indent-1">
         <span className="line-number">12</span>
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">Website</span> = <span className="string">"theodoros-dimitriou.com"</span>;
+      </div>
+      <div className="code-line indent-1">
+        <span className="line-number">13</span>
+        <span className="keyword">public</span> <span className="types">string</span> <span className="property">GitHub</span> = <span className="string">"github.com/operator888"</span>;
+      </div>
+      <div className="code-line indent-1">
+        <span className="line-number">14</span>
         <span className="keyword">public</span> <span className="types">string</span> <span className="property">LinkedIn</span> = <span className="string">"linkedin.com/in/theodoros-dimitriou"</span>;
       </div>
       <div className="code-line">
@@ -72,18 +80,22 @@ const Home = () => {
       </div>
       <div className="code-line indent-2">
         <span className="line-number">14</span>
-        <span className="keyword">var</span> <span className="property">_Niveau</span> = <span className="string">"Bachelor's Degree"</span>;
+        <span className="keyword">var</span> <span className="property">_Degree</span> = <span className="string">"Bachelor of Science (BSc) in Applied Informatics"</span>;
       </div>
       <div className="code-line indent-2">
         <span className="line-number">15</span>
-        <span className="keyword">var</span> <span className="property">_Type</span> = <span className="string">"Applied Informatics"</span>;
+        <span className="keyword">var</span> <span className="property">_Period</span> = <span className="string">"2010 - 2014"</span>;
+      </div>
+      <div className="code-line indent-2">
+        <span className="line-number">16</span>
+        <span className="keyword">var</span> <span className="property">_Thesis</span> = <span className="string">"Development of a Web-Based Learning Management System"</span>;
       </div>
       <div className="code-line indent-1">
-        <span className="line-number">16</span>
+        <span className="line-number">17</span>
         {'}'}
       </div>
       <div className="code-line">
-        <span className="line-number">17</span>
+        <span className="line-number">18</span>
         {'}'}
       </div>
       <div className="code-line">
